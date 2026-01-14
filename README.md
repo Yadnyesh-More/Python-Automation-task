@@ -4,16 +4,16 @@ Yadnyesh More
 Full Stack Developer Intern
 14th January 2026
 
-1) Project Overview
+# 1) Project Overview
 
 This Python automation reads UNREAD emails from Gmail inbox and logs them into Google Sheets with columns: From , Subject , Date , Content. Successfully processed emails with zero duplicates! 
 
-2) Architecture Diagram (Hand Drawn)
-
-proof/Diagram.jpeg
+# 2) Architecture Diagram (Hand Drawn)
 
 
-3) Step-by-Step Setup Instructions
+
+
+# 3) Step-by-Step Setup Instructions
 
 1. Google Cloud Console Setup 
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python src/main.py
 
 
-4) Technical Implementation Details
+# 4) Technical Implementation Details
 
 OAuth 2.0 Authentication Flow
 
@@ -60,7 +60,7 @@ After successful sheet append:
 processed_emails.add(msg_id)
 json.dump(list(processed_emails), file)
 
-5) Challenges Faced & How I Solved Them
+# 5) Challenges Faced & How I Solved Them
 
 ### **Challenge 1: OAuth "Access Blocked" Error**
 
