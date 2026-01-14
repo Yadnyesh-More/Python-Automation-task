@@ -10,7 +10,7 @@ This Python automation reads UNREAD emails from Gmail inbox and logs them into G
 
 # 2) Architecture Diagram (Hand Drawn)
 
-
+![Digram](https://github.com/user-attachments/assets/90912589-de8d-4e8f-828f-ac9b3b5c1280)
 
 
 # 3) Step-by-Step Setup Instructions
