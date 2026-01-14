@@ -83,11 +83,11 @@ text
 
 
 ### **Video Demo** (2:47 minutes)
-proof/demo.mp4 shows:
+
+https://github.com/user-attachments/assets/6167510f-bd10-41af-9e8e-1ff7fc47e378
 
 
-
-## ⚠️ Limitations of Current Solution
+##  Limitations of Current Solution
 
 1. **Plain Text Only**: HTML emails show raw HTML tags
 2. **Single Machine State**: JSON file doesn't sync across servers
@@ -107,7 +107,7 @@ if "Invoice" not in email_data['subject']:
 
 # Timestamp logging
 # print(f"[{datetime.now()}] Processed {len(new_rows)} emails")
-
+```
 
 📈 Results & Performance
 
