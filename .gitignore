@@ -1,0 +1,6 @@
+credentials/
+token.json
+__pycache__/
+*.pyc
+processed_emails.json
+.DS_Store
